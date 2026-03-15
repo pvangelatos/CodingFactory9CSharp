@@ -11,14 +11,14 @@
         static void Main(string[] args)
         {
             // Δήλωση και αρχικοποίηση μεταβλητών
-            const double METERS_PER_KM = 1000D;
-            const double CM_PER_KM = 100000D;
-            const double MILES_PER_KM = 0.621371D;
+            const double METERS_PER_KM  = 1000D;
+            const double CM_PER_KM      = 100000D;
+            const double MILES_PER_KM   = 0.621371D;
 
-            double kilometers = 0D;
-            double meters = 0D;
-            double centimeters = 0D;
-            double miles = 0D;
+            double kilometers   = 0D;
+            double meters       = 0D;
+            double centimeters  = 0D;
+            double miles        = 0D;
 
             // Εισαγωγή δεδομένων, data binding και validation
             Console.WriteLine("Δώστε χιλιόμετρα");
