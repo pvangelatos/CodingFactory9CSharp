@@ -1,8 +1,18 @@
 <Solution>
+  <Project Path="ArrayApp/ArrayApp.csproj" Id="8d71f3b9-16b6-4503-83e4-88999e9b0f4d" />
+  <Project Path="CitiesFor/CitiesFor.csproj" Id="ce1dce5a-bd96-43f8-ad55-f3dcaa8af70d" />
+  <Project Path="DoWhileApp/DoWhileApp.csproj" Id="23fe02ff-5713-49a1-a32b-efd6939d3daa" />
+  <Project Path="ExpressionBodyMethod/ExpressionBodyMethod.csproj" Id="b62a7414-ee5b-4063-a561-5fa443bb7017" />
+  <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="c90a57b2-0d60-4edd-a967-147626cac225" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="IfCases/IfCases.csproj" Id="d6e959d9-9b18-461e-b970-31fe32898dad" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
+  <Project Path="MethodsApp/MethodsApp.csproj" Id="9490872e-2e3f-4cf7-b349-72f4e54454e8" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PrintingApp/PrintingApp.csproj" />
   <Project Path="ProductsVat/ProductsVat.csproj" />
+  <Project Path="SwapApp/SwapApp.csproj" Id="e3780fc7-db1f-4cf8-87ea-ebc5890d1aee" />
+  <Project Path="SwitchApp/SwitchApp.csproj" Id="90ff729d-cad1-4d3b-b5e7-710b1cfe1de6" />
   <Project Path="Travelling/Travelling.csproj" />
+  <Project Path="WhileApp/WhileApp.csproj" Id="7b7d568d-53b5-4076-b68c-ad3ac5318bd9" />
 </Solution>
