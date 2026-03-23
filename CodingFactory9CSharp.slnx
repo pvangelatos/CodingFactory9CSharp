@@ -1,14 +1,17 @@
 <Solution>
+  <Project Path="AbstractApp/AbstractApp.csproj" Id="94ca7aef-b24f-43dd-b293-6922ef3d649c" />
   <Project Path="AccountApp/AccountApp.csproj" Id="32044ad9-065b-4ef7-aaa7-9049e5a9e792" />
   <Project Path="ArgsDemo/ArgsDemo.csproj" Id="b0c00db6-a31f-49bd-b262-ed5c615288d5" />
   <Project Path="ArrayApp/ArrayApp.csproj" Id="8d71f3b9-16b6-4503-83e4-88999e9b0f4d" />
   <Project Path="CitiesFor/CitiesFor.csproj" Id="ce1dce5a-bd96-43f8-ad55-f3dcaa8af70d" />
+  <Project Path="CopyApp/CopyApp.csproj" Id="63218720-0288-4117-84d3-e3701f35b8eb" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="23fe02ff-5713-49a1-a32b-efd6939d3daa" />
   <Project Path="ExpressionBodyMethod/ExpressionBodyMethod.csproj" Id="b62a7414-ee5b-4063-a561-5fa443bb7017" />
   <Project Path="ExtactCapitals/ExtactCapitals.csproj" Id="02ea3b18-f7d2-4877-8e08-2a74d8c91ba0" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="c90a57b2-0d60-4edd-a967-147626cac225" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfCases/IfCases.csproj" Id="d6e959d9-9b18-461e-b970-31fe32898dad" />
+  <Project Path="InterfacesApp/InterfacesApp.csproj" Id="9f80533c-b59a-49d3-a8b4-f069cc13c145" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
   <Project Path="LinqArrays/LinqArrays.csproj" Id="cca1ea3d-3f37-4ab0-ac20-4c42b14dc235" />
   <Project Path="MethodChallenges/MethodChallenges.csproj" Id="3f1f90b8-584b-433c-9fda-299bb869896a" />
@@ -16,6 +19,7 @@
   <Project Path="MoreMethods/MoreMethods.csproj" Id="774cfaa2-506d-40b3-aeef-1ba9ea36b356" />
   <Project Path="NullableApp/NullableApp.csproj" Id="6fbd7d12-3435-437d-8e0c-c2f81daaa6fd" />
   <Project Path="NumberRead/NumberRead.csproj" />
+  <Project Path="OperatorOverloading/OperatorOverloading.csproj" Id="a8637cb7-0f35-4f7f-8ba8-65ea324dfb3e" />
   <Project Path="PalindromeStr/PalindromeStr.csproj" Id="8c0f6c00-6907-476f-b67c-5b3b05095d0c" />
   <Project Path="PocoApp/PocoApp.csproj" Id="cd3d3710-9e07-48a9-9b3c-f24521f07ee7" />
   <Project Path="PointApp/PointApp.csproj" Id="449eb7a3-1458-4417-a1cb-df4d94d21841" />
