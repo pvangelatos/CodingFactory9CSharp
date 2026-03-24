@@ -15,6 +15,7 @@
   <Project Path="IfCases/IfCases.csproj" Id="d6e959d9-9b18-461e-b970-31fe32898dad" />
   <Project Path="InterfacesApp/InterfacesApp.csproj" Id="9f80533c-b59a-49d3-a8b4-f069cc13c145" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
+  <Project Path="LinqApp/LinqApp.csproj" Id="b29bb188-8de9-4f3b-9bc8-0952f36aeb8b" />
   <Project Path="LinqArrays/LinqArrays.csproj" Id="cca1ea3d-3f37-4ab0-ac20-4c42b14dc235" />
   <Project Path="MethodChallenges/MethodChallenges.csproj" Id="3f1f90b8-584b-433c-9fda-299bb869896a" />
   <Project Path="MethodsApp/MethodsApp.csproj" Id="9490872e-2e3f-4cf7-b349-72f4e54454e8" />
